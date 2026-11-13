@@ -2,7 +2,7 @@
 
 Um jogo casual e fofinho desenvolvido em **Python** utilizando a biblioteca **Pygame**. 
 
-## 🎮 Sobre o Jogo
+## Sobre o Jogo
 O objetivo é ajudar o coelhinho a coletar itens bons (os morangos) enquanto desvia de perigos (as pedras) que fazem a tela tremer e tiram vidas!
 
 ### Funcionalidades:
@@ -11,14 +11,14 @@ O objetivo é ajudar o coelhinho a coletar itens bons (os morangos) enquanto des
 - **Design:** Suporte a fontes customizadas do Google Fonts (MountainsOfChristmas.ttf) e assets de imagem.
 - **Efeitos Sonoros:** Efeitos diferentes e divertidos para uma melhor experiência. 
 
-## 🛠️ Tecnologias
+## Tecnologias
 - [Python 3.x](https://www.python.org/)
 - [Pygame](https://www.pygame.org/)
 
-## 🚀 Como rodar o projeto
+## Como rodar o projeto
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/SEU_USUARIO/bunny-adventure.git](https://github.com/SEU_USUARIO/bunny-adventure.git)
 
 
-## Projeto desenvolvido com carinho por Kauany Santos S2
+## Projeto desenvolvido com carinho por Vicente
